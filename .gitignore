@@ -50,3 +50,11 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+#IAR
+*.dep
+*.ewt
+*settings*
+*Exe
+*List
+*Obj
